@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Oana!
 
-<!--
-**PizzaRella16/PizzaRella16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 🎓Y2 Computer Engineering Student @ TUCN** | **Tech Enthusiast** | **Creative Problem Solver**
 
-Here are some ideas to get you started:
+---
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️Passionate about technology since the day I was born
+✨Always open to try new things
+🎈Hobbies: Gaming, Arts & Crafts, Photography, Nature walks, Restoring old tech pieces
+
+### 🛠️ Tech Stack
+
+💻 **Languages:** Java, C, C++, HTML & CSS, VHDL, SQL
+🧰 **Tools:** GitHub, Linux, Postgres, Unity, AimSpice, Blender, MS Office
+🔌 **Hardware:** Arduino, Microcontrollers, FPGA, PC builds
